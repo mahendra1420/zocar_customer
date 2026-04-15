@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069212466932",
+    "project_id": "zocar-d2893",
+    "storage_bucket": "zocar-d2893.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069212466932:android:314218d61bdb8020eee8a1",
+        "android_client_info": {
+          "package_name": "com.zocar.cab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg15FOaaTAwokMMWbigYIxfGpfm9AhpKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069212466932:android:2faea0fed5c6ffd8eee8a1",
+        "android_client_info": {
+          "package_name": "com.zocar.cabdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg15FOaaTAwokMMWbigYIxfGpfm9AhpKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
