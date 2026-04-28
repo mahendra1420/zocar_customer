@@ -7,9 +7,9 @@
         <compositeConfiguration>
           <compositeBuild compositeDefinitionSource="SCRIPT">
             <builds>
-              <build path="C:/src/flutter_windows_3_35_5_stable/flutter/packages/flutter_tools/gradle" name="gradle">
+              <build path="C:/src/3.35.3/flutter/packages/flutter_tools/gradle" name="gradle">
                 <projects>
-                  <project path="C:/src/flutter_windows_3_35_5_stable/flutter/packages/flutter_tools/gradle" />
+                  <project path="C:/src/3.35.3/flutter/packages/flutter_tools/gradle" />
                 </projects>
               </build>
             </builds>
@@ -20,7 +20,7 @@
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="C:/src/flutter_windows_3_35_5_stable/flutter/packages/flutter_tools/gradle" />
+            <option value="C:/src/3.35.3/flutter/packages/flutter_tools/gradle" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
           </set>
